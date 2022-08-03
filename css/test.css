@@ -1,0 +1,30 @@
+body{
+    background-color: darkslateblue;
+}
+
+
+h1{
+    font-size: 30px;
+    color: orange;
+}
+
+h2{
+    font-size: 20px;
+    color: yellow;
+}
+
+.small{
+    font-size: 16px;
+}
+
+.uppercase{
+    text-transform: uppercase;
+}
+
+.small.uppercase{
+    color: crimson;
+}
+
+span{
+    color: black;
+}
